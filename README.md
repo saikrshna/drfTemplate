@@ -1,1 +1,1 @@
-drf Template 
+drf template
